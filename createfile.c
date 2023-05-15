@@ -3,7 +3,7 @@
 int main()
 {
     int a = 0, b = 0, c = 0, d = 0;
-    char *ak = "qVuRlaHz4hPXjX8IRST", *sk = "1DWm3mpJdHRBOlPv1WpPbCf2a4ndQbvem1DfreTaUaXotOoi1dlPkG3Ob6KB4iEaXRWMOMntmcpeshUBJeIFah9S5S4vek0B9gJSnSdzCZDvKxHsLQsRP9KXbMmA3mzx8TpsoSjr2TgKVqE35TefxQswqW6e9EjmhY0tYKtlB";
+    char *ak = "LTAI5tXXt9eF7t5YJQ1uxSxx", *sk = "cVJoHKSh375Al7il90DuQD7Fo3GiPG";
     char *gitaccesstoken = "github_pat_11A6C67WQ0iaYXyp89XLl7_RbwXy1hQ36FS97BDLlyF1tAtuW2hGbPEPb2YuXRcOjdNHBXCTN123456789";
     printf("please input 4 numbers: ", "\n");
     scanf("%d %d %d %d", &a, &b, &c, &d);
